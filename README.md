@@ -1,13 +1,13 @@
 # 📞 Contact Management System
 
-## 📌 About the Project
+## About the Project
 
 I built this Contact Management System using Python to practice file handling and basic data structures.
 The program allows users to store and manage contacts, with all data saved in a JSON file so it remains available even after closing the program.
 
 ---
 
-## 🚀 What it can do
+## What it can do
 
 * Add new contacts
 * View all saved contacts
@@ -18,35 +18,30 @@ The program allows users to store and manage contacts, with all data saved in a 
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 * Python
 * JSON
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 Contact-Management-System/
-├── README.md
-├── contacts.json
-└── main.py
+ README.md
+ contacts.json
+ main.py
 
 ---
 
-## ▶️ How to run it
+## How to run it
 
 1. Download or clone the repository
 2. Open the folder in terminal
 3. Run the file:
 
-```bash
-python main.py
-```
 
----
-
-## 💡 Why I made this
+## Why I made this
 
 I created this project to improve my understanding of:
 
@@ -56,14 +51,6 @@ I created this project to improve my understanding of:
 
 ---
 
-## 🔧 Future improvements
-
-* Add email and more details to contacts
-* Create a graphical interface (GUI)
-* Convert it into a web-based application
-
----
-
-## 👩‍💻 Author
+##  Author
 
 Radhika Agarwal
